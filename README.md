@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @blawanabi (Blake)
+- 👋 Hi, I’m Blake!
 - 👀 I’m interested in software development but browsing around to see what else the tech industry has to offer.
 - 🌱 I’m currently a junior ICS major at University of Hawaii Manoa.
 - My hobbies are photography and gaming!
